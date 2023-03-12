@@ -62,7 +62,7 @@
 
   .todo-btn {
     background: var(--pink);
-    color: #fff;
+    color: var(--light);
     border: none;
     padding: 0.55rem;
     cursor: pointer;
