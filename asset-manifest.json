@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Baigiamasis/static/css/main.a9dd91d8.css",
+    "main.js": "/Baigiamasis/static/js/main.15b1f7a8.js",
+    "static/js/787.2c23d2f4.chunk.js": "/Baigiamasis/static/js/787.2c23d2f4.chunk.js",
+    "index.html": "/Baigiamasis/index.html",
+    "main.a9dd91d8.css.map": "/Baigiamasis/static/css/main.a9dd91d8.css.map",
+    "main.15b1f7a8.js.map": "/Baigiamasis/static/js/main.15b1f7a8.js.map",
+    "787.2c23d2f4.chunk.js.map": "/Baigiamasis/static/js/787.2c23d2f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9dd91d8.css",
+    "static/js/main.15b1f7a8.js"
+  ]
+}
